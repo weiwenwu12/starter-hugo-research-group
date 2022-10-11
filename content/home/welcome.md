@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **MICIS Research Lab** has been a group about medical intelligence computing imaging systems, since its founding in 2022.
+The **MICIS Research Lab** has been a group about medical intelligence computing imaging systems, since  its founding in 2022.
