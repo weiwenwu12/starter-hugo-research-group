@@ -6,7 +6,7 @@ title: Weiwen Wu
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor of Biomedical Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -14,24 +14,21 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computed tomography, image reconstruction and deep learning.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computed Tomography
+  - Image Reconstruction
+  - Deep Learning
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Instrument Science and Technology
+      institution: Chongqing University
+      year: 2019
+    - course: BEc in Measurement and Control Texchnology and Instrument
+      institution: Nanchang Hangkong University
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -68,6 +65,5 @@ user_groups:
   - Supervisor
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Weiwen Wu is a Associate professor of Biomedical Engineering at the Sun Yat-sen MICIS Lab. Before joining the SYSU, he is the postdoctoral fellow in Rensselaer Polytechnic Institute under supervision of Professor Ge Wang in 2020-2021. He also serves as the postdoctoral fellow in Hong Kong University in 2019-2020. His research interests include computed tomography, magnetic resonance imaging, image reconstruction and deep learning.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
