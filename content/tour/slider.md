@@ -31,8 +31,8 @@ content:
         color: '#555'
         brightness: 0.7
         media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: welcome students who are interested in scientific research to contact us
+      content: 'Welcome all senior students to apply!'
       align: right
       background:
         position: center
