@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 潘嘉毅
+title: Jiayi Pan
 
 # Username (this should match the folder name)
 authors:
@@ -22,14 +22,14 @@ bio: My research interests include artificial intelligence, scoring model and de
 
 interests:
   - Artificial Intelligence
-  - Scoring Model
+  - Image Reconstruction
   - Deep Learning
 
 education:
   courses:
-    - course: B.E in Electronic Engineering
-      institution: Wuhan University of Technology
-      year: 2022
+    - course: B.E in School of Biomedical Engineering
+      institution: Southern Medical University
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,7 +64,7 @@ user_groups:
 #  - Visitors
 ---
 
-王堰阳 is a graduate student of MICIS group at the Sun-Yat-Sen University. His research interests include artificial intelligence, scoring model and deep learning.
+Jiayi Pan is a graduate student of MICIS group at the Sun-Yat-Sen University. His research interests include artificial intelligence, image reconstruction and deep learning.
 
 
 
