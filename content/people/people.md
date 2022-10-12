@@ -24,6 +24,7 @@ content:
     - Administration
     - Visitors
     - Alumni
+    - Co-Adviced Graduate Students
 design:
   show_interests: false
   show_role: true
