@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳恩達
+title: 王堰阳
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Student of Biomedical Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Sun-Yat-Sen University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,8 +22,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Scoring Model
+  - Deep Learning
 
 education:
   courses:
