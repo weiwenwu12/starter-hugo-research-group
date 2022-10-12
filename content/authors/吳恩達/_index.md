@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include artificial intelligence, scoring model and deep learning.
 
 interests:
   - Artificial Intelligence
@@ -61,7 +61,7 @@ email: '2323232'
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
+#  - Visitors
 ---
 
 王堰阳 is a graduate student of MICIS group at the Sun-Yat-Sen University. His research interests include artificial intelligence, scoring model and deep learning.
