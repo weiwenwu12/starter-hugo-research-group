@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 伍伟文
+title: Weiwen Wu
 
 # Is this the primary user of the site?
 superuser: true
