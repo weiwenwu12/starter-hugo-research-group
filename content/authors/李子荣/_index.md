@@ -18,18 +18,18 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include artificial intelligence, scoring model and deep learning.
+bio: My research interests include artificial intelligence, CT image reconstruction and image processing.
 
 interests:
   - Artificial Intelligence
-  - Image Reconstruction
-  - Deep Learning
+  - CT Image Reconstruction
+  - Image Processing
 
 education:
   courses:
-    - course: B.E in School of Biomedical Engineering
-      institution: Southern Medical University
-      year: 2021
+    - course: B.E in Communication Engineering
+      institution: Wuhan University of Technology
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,7 +64,7 @@ user_groups:
 #  - Visitors
 ---
 
-Jiayi Pan is a graduate student of MICIS group at the Sun-Yat-Sen University. His research interests include artificial intelligence, image reconstruction and deep learning.
+Zirong Li is a graduate student of MICIS group at the Sun-Yat-Sen University. His research interests include artificial intelligence, CT image reconstruction and image processing.
 
 
 
