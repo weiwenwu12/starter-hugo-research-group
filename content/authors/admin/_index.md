@@ -26,7 +26,7 @@ education:
     - course: PhD in Instrument Science and Technology
       institution: Chongqing University
       year: 2019
-    - course: BEc in Measurement and Control Texchnology and Instrument
+    - course: BEc in Measurement and Control Technology and Instrument
       institution: Nanchang Hangkong University
       year: 2014
 
