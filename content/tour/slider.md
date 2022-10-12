@@ -31,7 +31,7 @@ content:
         color: '#555'
         brightness: 0.7
         media: contact.jpg
-    - title: welcome students who are interested in scientific research to contact us
+    - title: A group in SUN-YAT-SEN Univercity
       content: 'Welcome all senior students to apply!'
       align: right
       background:
