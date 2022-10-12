@@ -60,10 +60,10 @@ email: '2323232'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Graduate Students
 #  - Visitors
 ---
 
-王堰阳 is a graduate student of MICIS group at the Sun-Yat-Sen University. His research interests include artificial intelligence, scoring model and deep learning.
+Yanyang Wang is a graduate student of MICIS group at the Sun-Yat-Sen University. His research interests include artificial intelligence, scoring model and deep learning.
 
 
