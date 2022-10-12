@@ -22,13 +22,13 @@ bio: My research interests include artificial intelligence, CT image reconstruct
 
 interests:
   - Artificial Intelligence
-  - CT Image Reconstruction
+  - Biomedical Image Denoising
   - Image Processing
 
 education:
   courses:
     - course: B.E in Communication Engineering
-      institution: Wuhan University of Technology
+      institution: Northeastern University
       year: 2022
 
 # Social/Academic Networking
@@ -64,7 +64,7 @@ user_groups:
 #  - Visitors
 ---
 
-Zirong Li is a graduate student of MICIS group at the Sun-Yat-Sen University. His research interests include artificial intelligence, CT image reconstruction and image processing.
+Yifei Long is a graduate student of MICIS group at the Sun-Yat-Sen University. His research interests include artificial intelligence, biomedical image denoising and image processing.
 
 
 
