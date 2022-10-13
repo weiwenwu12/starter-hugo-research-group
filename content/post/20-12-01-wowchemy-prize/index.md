@@ -1,5 +1,5 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: Weiwen Wu on **Computers in Biology and Medicine** Posted Papers
 date: 2020-12-01
 ---
 
