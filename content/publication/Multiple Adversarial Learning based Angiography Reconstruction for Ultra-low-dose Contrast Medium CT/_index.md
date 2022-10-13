@@ -2,7 +2,10 @@
 title: 'Multiple Adversarial Learning based Angiography Reconstruction for Ultra-low-dose Contrast Medium CT'
 authors:
   - admin
-#  - Robert Ford
+  - Hengyong Yu
+  - Fenglin Liu
+  - Jianjia Zhang
+  - Varut Vardhanabhuti
 author_notes:
   - 'communication'
 #  - 'Equal contribution'
