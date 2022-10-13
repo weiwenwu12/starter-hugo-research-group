@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-    - course: B.E in Communication Engineering
+    - course: B.E in Biomedical Engineering
       institution: Northeastern University
       year: 2022
 
