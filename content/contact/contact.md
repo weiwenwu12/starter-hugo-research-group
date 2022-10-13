@@ -15,8 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: micis_lab@163.com
   address:
     street: 450 Serra Mall
     city: Stanford
