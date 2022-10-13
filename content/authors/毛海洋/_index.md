@@ -23,12 +23,12 @@ bio: My research interests include artificial intelligence, CT image reconstruct
 interests:
   - Artificial Intelligence
   - CT Image Reconstruction
-  - Image Processing
+  - Image Denosing
 
 education:
   courses:
-    - course: B.E in Communication Engineering
-      institution: Wuhan University of Technology
+    - course: B.E in Biomedical Engineering
+      institution: Sun-Yat-Sen University
       year: 2022
 
 # Social/Academic Networking
@@ -64,7 +64,7 @@ user_groups:
 #  - Visitors
 ---
 
-Zirong Li is a graduate student of MICIS group at the Sun-Yat-Sen University. His research interests include artificial intelligence, CT image reconstruction and image processing.
+Zirong Li is a graduate student of MICIS group at the Sun-Yat-Sen University. His research interests include artificial intelligence, CT image reconstruction and Image Denosing.
 
 
 
