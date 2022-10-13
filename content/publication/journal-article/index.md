@@ -7,8 +7,8 @@ authors:
   - Jianjia Zhang
   - Varut Vardhanabhuti
   - JunChen
-author_notes:
-  - 'Equal contribution'
+#author_notes:
+#  - 'Equal contribution'
 #  - 'Equal contribution'
 date: '2022-09-01T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.compbiomed.2022.106080'
