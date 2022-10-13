@@ -2,9 +2,13 @@
 title: 'Spectral CT reconstruction via Spectral-Image Tensor and Bidirectional Image-gradient minimization'
 authors:
   - admin
-#  - Robert Ford
+  - Hengyong Yu
+  - Fenglin Liu
+  - Jianjia Zhang
+  - Varut Vardhanabhuti
+  - JunChen
 author_notes:
-  - 'Equal contribution'
+#  - 'Equal contribution'
 #  - 'Equal contribution'
 date: '2022-09-01T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.compbiomed.2022.106080'
