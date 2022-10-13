@@ -1,5 +1,5 @@
 ---
-title: Weiwen Wu on the Computers in Biology and Medicine Posted Papers
+title: Weiwen Wu's paper publish by the Computers in Biology and Medicine
 date: 2022-09-20
 ---
 
