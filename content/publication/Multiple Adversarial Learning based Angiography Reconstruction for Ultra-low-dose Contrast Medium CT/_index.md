@@ -6,8 +6,8 @@ authors:
   - Fenglin Liu
   - Jianjia Zhang
   - Varut Vardhanabhuti
-author_notes:
-  - 'communication'
+#author_notes:
+#  - 'communication'
 #  - 'Equal contribution'
 date: '2022-08-01T00:00:00Z'
 doi: '10.1109/JBHI.2022.3213595'
