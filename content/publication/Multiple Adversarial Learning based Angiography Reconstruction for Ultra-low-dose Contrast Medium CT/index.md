@@ -1,13 +1,13 @@
 ---
 title: 'Multiple Adversarial Learning based Angiography Reconstruction for Ultra-low-dose Contrast Medium CT'
 authors:
-  - Zhang Weiwe
-  - Zhou Zhen
-  - Gao Zhifan
-  - Yang Guang
-  - Xu Lei
+  - Weiwei Zhang
+  - Zhen zhou
+  - Zhifan Gao
+  - Guang Yang
+  - Lei Xu
   - admin
-  - Zhang Heye
+  - Heyei Zhang 
 #author_notes:
 #  - 'communication'
 #  - 'Equal contribution'
