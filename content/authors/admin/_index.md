@@ -29,6 +29,13 @@ education:
     - course: BEc in Measurement and Control Technology and Instrument
       institution: Nanchang Hangkong University
       year: 2014
+publication:
+    - course: PhD in Instrument Science and Technology
+      institution: Chongqing University
+      year: 2019
+    - course: BEc in Measurement and Control Technology and Instrument
+      institution: Nanchang Hangkong University
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
