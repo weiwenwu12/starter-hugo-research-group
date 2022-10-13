@@ -64,7 +64,7 @@ user_groups:
 #  - Visitors
 ---
 
-Zirong Li is a graduate student of MICIS group at the Sun-Yat-Sen University. His research interests include artificial intelligence, CT image reconstruction and Image Denosing.
+Haiyang Mao is a graduate student of MICIS group at the Sun-Yat-Sen University. His research interests include artificial intelligence, CT image reconstruction and Image Denosing.
 
 
 
