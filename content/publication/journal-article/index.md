@@ -22,8 +22,7 @@ publication_types: ['2']
 #publication: '*Journal of Source Themes, 1*(1)'
 #publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: It is challenging to obtain good image quality in spectral computed tomography (CT) as the photon-number for the photon-counting detectors is limited for each narrow energy bin. This results in a lower signal to noise ratio (SNR) for the projections. To handle this issue, we first formulate the weight bidirectional image gradient with L0-norm constraint of spectral CT image. Then, as a new regularizer, bidirectional image gradient with L0-norm constraint is introduced into the tensor decomposition model, generating the Spectral-Image Tensor and Bidirectional Image-gradient Minimization (SITBIM) algorithm. Finally, the split-Bregman method is employed to optimize the proposed SITBIM mathematical model. The experiments on the numerical mouse phantom and real mouse experiments are designed to validate and evaluate the SITBIM method. The results demonstrate that the SITBIM can outperform other state-of-the-art methods (including TVM, TV + LR, SSCMF and NLCTF).
 #tags:
 #  - Source Themes
 featured: false
