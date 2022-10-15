@@ -6,7 +6,6 @@ authors:
   - Fenglin Liu
   - Jianjia Zhang
   - Varut Vardhanabhuti
-  - JunChen
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
