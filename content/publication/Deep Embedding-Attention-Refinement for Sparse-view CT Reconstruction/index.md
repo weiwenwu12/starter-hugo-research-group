@@ -9,7 +9,7 @@ authors:
 #author_notes:
 #  - 'communication'
 #  - 'Equal contribution'
-date: '2022-09T00:00:00Z'
+date: '2022-09-01T00:00:00Z'
 doi: '10.1109/TIM.2022.3221136'
 
 # Schedule page publish date (NOT publication's date).
