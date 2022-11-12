@@ -14,11 +14,11 @@ authors:
 #author_notes:
 #  - 'communication'
 #  - 'Equal contribution'
-date: '2022-08-01T00:00:00Z'
-doi: '10.1109/JBHI.2022.3213595'
+date: '2022-05-13T00:00:00Z'
+doi: '10.1016/j.patter.2022.100475'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022.09'
+publishDate: '2022.05'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
