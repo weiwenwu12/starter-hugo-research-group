@@ -1,13 +1,16 @@
 ---
 title: 'Stabilizing deep tomographic reconstruction: Part B. Convergence analysis and adversarial attacks'
 authors:
-  - Weiwei Zhang
-  - Zhen zhou
-  - Zhifan Gao
-  - Guang Yang
-  - Lei Xu
   - admin
-  - Heye Zhang 
+  - Dianlin Hu
+  - Hongming Shan
+  - Shaoyu Wang
+  - Wenxiang Cong
+  - Chuang Niu
+  - Pingkun Yan
+  - Hengyong Yu
+  - Varut Vardhanabhuti
+  - Ge Wang
 #author_notes:
 #  - 'communication'
 #  - 'Equal contribution'
