@@ -4,10 +4,7 @@ authors:
   - admin
   - Dianlin Hu
   - Hongming Shan
-  - Shaoyu Wang
-  - Wenxiang Cong
-  - Chuang Niu 
-  - Pingkun Yan
+  - Shaoyu Wang 
   - Hengyong Yu 
   - Varut Vardhanabhuti
   - Ge Wang
