@@ -30,7 +30,7 @@ publication_types: ['2']
 #publication: '*Journal of Source Themes, 1*(1)'
 #publication_short: ''
 
-abstract: Iodinated contrast medium (ICM) dose reduction is beneficial for decreasing potential health risk to renal-insufficiency patients in CT scanning. Qualitative assessments by radiographers confirm the potential of our MALAR for the clinical diagnosis of vascular diseases. The code and model are available at https://github.com/HIC-SYSU/MALAR. 
+abstract: Due to lack of the kernel awareness, some popular deep image reconstruction networks are unstable. To address this problem, here we introduce the bounded relative error norm (BREN) property, which is a special case of the Lipschitz continuity. Then, we perform a convergence study consisting of two parts: (1) a heuristic analysis on the convergence of the analytic compressed iterative deep (ACID) scheme (with the simplification that the CS module achieves a perfect sparsification), and (2) a mathematically denser analysis (with the two approximations: [1] AT is viewed as an inverse A-1 in the perspective of an iterative reconstruction procedure and [2] a pseudo-inverse is used for a total variation operator H). Also, we present adversarial attack algorithms to perturb the selected reconstruction networks respectively and, more importantly, to attack the ACID workflow as a whole. Finally, we show the numerical convergence of the ACID iteration in terms of the Lipschitz constant and the local stability against noise 
 
 #tags:
 #  - Source Themes
