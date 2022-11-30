@@ -6,8 +6,8 @@ authors:
   - Zhifan Gao
   - Guang Yang
   - Lei Xu
-  - admin*
-  - Heye Zhang\corref{mycorrespondingauthor}
+  - admin
+  - Heye Zhang*
 #author_notes:
 #  - 'communication'
 #  - 'Equal contribution'
