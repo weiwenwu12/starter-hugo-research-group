@@ -30,7 +30,7 @@ publication_types: ['2']
 #publication: '*Journal of Source Themes, 1*(1)'
 #publication_short: ''
 
-abstract:Due to lack of the kernel awareness, some popular deep image reconstruction networks are unstable. To address this problem, here we introduce the bounded relative error norm (BREN) property, which is a special case of the Lipschitz continuity. Then, we perform a convergence study consisting of two parts, (1)a heuristic analysis on the convergence of the analytic compressed iterative deep (ACID) scheme (with the simplification that the CS module achieves a perfect sparsification), and (2)a mathematically denser analysis (with the two approximations
+abstract: Due to lack of the kernel awareness, some popular deep image reconstruction networks are unstable. To address this problem, here we introduce the bounded relative error norm (BREN) property, which is a special case of the Lipschitz continuity. Then, we perform a convergence study consisting of two parts, (1)a heuristic analysis on the convergence of the analytic compressed iterative deep (ACID) scheme (with the simplification that the CS module achieves a perfect sparsification), and (2)a mathematically denser analysis (with the two approximations).
 
 #tags:
 #  - Source Themes
