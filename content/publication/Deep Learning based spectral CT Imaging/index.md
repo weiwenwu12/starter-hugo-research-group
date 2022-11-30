@@ -1,16 +1,11 @@
 ---
 title: 'Deep Learning based spectral CT Imaging'
 authors:
-  - Weiwei Zhang
-  - Zhen zhou
-  - Zhifan Gao
-  - Guang Yang
-  - Lei Xu
-  - admin
+  - Weiwen Wu
   - Lieza Vanden Broeke
   - Fenglin Liu
-  - Varut Vardhanabhuti*
-  - Ge Wang.
+  - Varut Vardhanabhuti* 
+  - Ge Wang
 #author_notes:
 #  - 'communication'
 #  - 'Equal contribution'
