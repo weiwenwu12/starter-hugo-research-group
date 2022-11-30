@@ -5,7 +5,7 @@ authors:
   -  Heye Zhang
   -  Weifei Wu
   -  Zhifan Gao
-  -  Weiwen Wu 
+  -  Weiwen Wu *
 #author_notes:
 #  - 'communication'
 #  - 'Equal contribution'
