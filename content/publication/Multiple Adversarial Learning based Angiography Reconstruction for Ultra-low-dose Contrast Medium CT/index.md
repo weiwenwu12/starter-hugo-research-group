@@ -6,8 +6,8 @@ authors:
   - Zhifan Gao
   - Guang Yang
   - Lei Xu
-  - Weiwen Wu* 
-  - Heye Zhang*. 
+  - Weiwen Wu * 
+  - Heye Zhang * 
 #author_notes:
 #  - 'communication'
 #  - 'Equal contribution'
