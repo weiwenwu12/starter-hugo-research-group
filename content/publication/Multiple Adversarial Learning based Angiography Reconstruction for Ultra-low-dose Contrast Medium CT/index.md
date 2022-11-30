@@ -7,7 +7,7 @@ authors:
   - Guang Yang
   - Lei Xu
   - admin*
-  - Heye Zhang*
+  - Heye Zhang\corref{mycorrespondingauthor}
 #author_notes:
 #  - 'communication'
 #  - 'Equal contribution'
