@@ -8,9 +8,9 @@ authors:
   - Wenxiang Cong
   - Chuang Niu
   - Pingkun Yan
-  - Hengyong Yu
+  - Hengyong Yu*
   - Varut Vardhanabhuti
-  - Ge Wang
+  - Ge Wang*
 #author_notes:
 #  - 'communication'
 #  - 'Equal contribution'
