@@ -5,7 +5,7 @@ authors:
   - Hengyong Yu
   - Fenglin Liu
   - Jianjia Zhang
-  - Varut Vardhanabhuti*
+  - Varut Vardhanabhuti
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
