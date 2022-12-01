@@ -10,11 +10,11 @@ authors:
 #author_notes:
 #  - 'communication'
 #  - 'Equal contribution'
-date: '2022-07-25T00:00:00Z'
-doi: '10.1109/TIM.2022.3193713'
+date: '2021-05-10T00:00:00Z'
+doi: '10.1109/TIM.2021.3078555'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022.07'
+publishDate: '2021.05'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,7 +26,7 @@ publication_types: ['2']
 #publication: '*Journal of Source Themes, 1*(1)'
 #publication_short: ''
 
-abstract: In practice, cone-beam computed tomography (CT) images are usually tarnished by ring artifacts. To address this problem, in this article, we proposed a ring-artifact removal technique based on the nonlinear deviation correction of pixel response for flat panel detector (FPD), named Nonlinear Deviation CorrecTion (NDCT). Our proposed NDCT is a two-point fitting correction method of the local response from mean projection images. Its advantages lie in the following three aspects. First, it obtains correction coefficients by solving the correction equations based on the mean projection images without additional scanning, which improves efficiency. Second, it corrects all pixels of FPD at the same time, which eliminates the inconsistency of adjacent pixels and then the ring artifact within the 3-D CT image can be corrected. Third, the calculation is very simple so the correction speed is fast, which further improves efficiency in practice. Both numerical and real experiments showed that our NDCT method achieved excellent performance and fast speed in ring-artifact removal.
+abstract: Spectral-computed tomography (CT) has been demonstrating its great advantages in lesion detection, tissue characterization, and material decomposition. However, the quality of images is often significantly corrupted with various noises, which brings a great challenge for its applications. Because the channel-wise images from different energy interval share similar structure and physical message, the spatial sparsity, global correlation across the spectrum (GCS), and nonlocal self-similarity (NSS) as three important characteristics are employed to spectral CT reconstruction. In this study, we propose a spectral-image decomposition with energy-fusion sensing (SIDES) reconstruction method, which encourages to obtain better quality spectral images and material decomposition results by establishing a unified tensor decomposition model. First, considering the noise distribution in channel-wise and the difference of linear attenuation coefficients within channel-cross, an adaptive weighted full-spectrum prior image as additional supervised information is incorporated to formulate a new weighted prior image-based tensor. Cooperating with original image tensor, they fully explore the spatial sparsity, GCS, and NSS properties. Then, we formulate nonlocal similar patch-based tensor groups to encode the NSS property from image-domain and residual-image-domain (which is expanded by prior-image and image-self). Next, low-rank regularized Tucker tensor decomposition is employed to fully explore the intrinsic knowledge with the help of prior-image supervision. Finally, the relaxed convex optimization model is optimized by dividing reconstruction model into several subproblem using split-Bregman method. Numerical simulations and real experiments are designed to validate and evaluate the SIDES method and the results demonstrate that the SIDES reconstruction outperforms the state-of-the-art.
 
 
 #tags:
