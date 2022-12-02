@@ -10,11 +10,11 @@ authors:
 #author_notes:
 #  - 'communication'
 #  - 'Equal contribution'
-date: '2022-07-25T00:00:00Z'
-doi: '10.1109/TIM.2022.3193713'
+date: '2021-03-21T00:00:00Z'
+doi: '10.1016/j.sigpro.2020.107871'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022.07'
+publishDate: '2021.03'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,7 +26,7 @@ publication_types: ['2']
 #publication: '*Journal of Source Themes, 1*(1)'
 #publication_short: ''
 
-abstract: In practice, cone-beam computed tomography (CT) images are usually tarnished by ring artifacts. To address this problem, in this article, we proposed a ring-artifact removal technique based on the nonlinear deviation correction of pixel response for flat panel detector (FPD), named Nonlinear Deviation CorrecTion (NDCT). Our proposed NDCT is a two-point fitting correction method of the local response from mean projection images. Its advantages lie in the following three aspects. First, it obtains correction coefficients by solving the correction equations based on the mean projection images without additional scanning, which improves efficiency. Second, it corrects all pixels of FPD at the same time, which eliminates the inconsistency of adjacent pixels and then the ring artifact within the 3-D CT image can be corrected. Third, the calculation is very simple so the correction speed is fast, which further improves efficiency in practice. Both numerical and real experiments showed that our NDCT method achieved excellent performance and fast speed in ring-artifact removal.
+abstract: Low-dose computed tomography (LDCT) image reconstruction has been attracting much attention in medical applications because it can reduce the radiation risk. Sometimes, traditional methods are difficult to reconstruct satisfying image quality from low-dose projections. It is a challenging task for LDCT reconstruction with image quality improvement. Recently, various patch-based methods including dictionary learning were developed for LDCT and have achieved promising performance. Most of these patch-based methods assume that the noise follows the uniform Gaussian distribution, while noise is much more complex than Gaussian distribution in practice. In this study, considering the varying statistics of noise in different patches, we develop a weighted adaptive non-local dictionary (WAND) method for LDCT. Concretely, instead of establishing a complex model for the noise distribution in the whole image, we iteratively characterize the noise property in each local patch during the iteration processing. Besides, we also adaptively describe the different distributions of sparse coefficients of each patch to better characterize the sparsity priors of the image. The simulated and realistic experiments have shown that WAND can achieve better image quality in terms of small details preservation and noise suppression.
 
 
 #tags:
