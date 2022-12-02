@@ -1,12 +1,12 @@
 ---
 title: 'Weighted Adaptive Non-local Dictionary Reconstruction for Low-dose CT'
-authors:{
+authors:
   -  Haijun Yu
   -  Shaoyu Wang
-  -  Weiwen Wu*
+  -  {Weiwen Wu*}
   -  Changcheng Gong
   -  Zhenzhen Pi
-  -  Fenglin Liu*}
+  -  {Fenglin Liu*}
 #author_notes:
 #  - 'communication'
 #  - 'Equal contribution'
