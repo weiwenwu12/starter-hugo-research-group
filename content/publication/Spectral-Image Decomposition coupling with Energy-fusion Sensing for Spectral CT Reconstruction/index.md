@@ -5,7 +5,7 @@ authors:
   - Haijun Yu
   - Yarui Xi
   - Changcheng Gong
-  - Weiwen Wu"*"
+  - admin
   - Fenglin Liu*
 #author_notes:
 #  - 'communication'
