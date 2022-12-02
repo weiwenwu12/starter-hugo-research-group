@@ -26,13 +26,7 @@ publication_types: ['2']
 #publication: '*Journal of Source Themes, 1*(1)'
 #publication_short: ''
 
-abstract: Purpose-The goal of this study was to demonstrate the feasibility of using photon-counting spectral CT for dental applications. This paper qualitatively analyzes the visibility of accessory canals (ACs) and metal artefacts from dental implants for cone-beam CT (CBCT), microtomography (microCT), and photon-counting spectral CT (PCSCT).
-
-Materials and methods-All of the teeth in this study were extracted, and eight teeth in total were scanned on a CBCT scanner, a microCT scanner and on a PCSCT scanner. Six of the teeth that were scanned have accessory canals, one has a titanium rod attached to it, and one has a gutta-percha point inside it. Qualitative analysis was done to compare the different imaging modalities.
-
-Results-The subjective image analysis demonstrated similar performance in AC detection and visualisation for PCSCT and CBCT (p value >0.05). Both PCSCT and microCT performed similarly for metal artefact reduction, and both were superior to CBCT (p value <0.05).
-
-Conclusion-Although microCT provides detailed information about small anatomical structures, it is not suitable for in vivo use. However, the PCSCT scanner was able to detect small anatomical structures in teeth comparable to CBCT, as well as being superior in reducing metal artefacts from dental implants. This study showed that PCSCT is a promising modality for future dentistry applications.
+abstract: Purpose.The goal of this study was to demonstrate the feasibility of using photon-counting spectral CT for dental applications. This paper qualitatively analyzes the visibility of accessory canals (ACs) and metal artefacts from dental implants for cone-beam CT (CBCT), microtomography (microCT), and photon-counting spectral CT (PCSCT).Materials and methods.All of the teeth in this study were extracted, and eight teeth in total were scanned on a CBCT scanner, a microCT scanner and on a PCSCT scanner. Six of the teeth that were scanned have accessory canals, one has a titanium rod attached to it, and one has a gutta-percha point inside it. Qualitative analysis was done to compare the different imaging modalities.Results.The subjective image analysis demonstrated similar performance in AC detection and visualisation for PCSCT and CBCT (p value >0.05). Both PCSCT and microCT performed similarly for metal artefact reduction, and both were superior to CBCT (p value <0.05).Conclusion.Although microCT provides detailed information about small anatomical structures, it is not suitable for in vivo use. However, the PCSCT scanner was able to detect small anatomical structures in teeth comparable to CBCT, as well as being superior in reducing metal artefacts from dental implants. This study showed that PCSCT is a promising modality for future dentistry applications.
 
 #tags:
 #  - Source Themes
