@@ -1,11 +1,11 @@
 ---
 title: 'Feasibility of photon-counting spectral CT in dental applications—a comparative qualitative analysis'
 authors:
-  - Broeke, L.V.
-  - Grillon, M.
-  - Yeung, A.W.K.
+  - Broeke, L.V
+  - Grillon, M
+  - Yeung, A.W.K
   - admin
-  - Tanaka, R.
+  - Tanaka, R
   - Vardhanabhuti, V
 #author_notes:
 #  - 'communication'
