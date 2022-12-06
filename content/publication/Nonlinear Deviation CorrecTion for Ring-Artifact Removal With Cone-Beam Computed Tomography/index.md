@@ -12,7 +12,8 @@ authors:
   - Yu Du
   - Kang An
 author_notes:
-  - 'communication'
+  -
+  -  'communication'
 #  - 'Equal contribution'
 date: '2022-07-25T00:00:00Z'
 doi: '10.1109/TIM.2022.3193713'
