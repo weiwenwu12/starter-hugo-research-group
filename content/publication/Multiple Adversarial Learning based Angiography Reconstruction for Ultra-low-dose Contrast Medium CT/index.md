@@ -8,8 +8,14 @@ authors:
   - Lei Xu
   - Weiwen Wu
   - Heye Zhang
-#author_notes:
-#  - 'communication'
+author_notes:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 'communication'
+  - 'communication'
 #  - 'Equal contribution'
 date: '2022-08-01T00:00:00Z'
 doi: '10.1109/JBHI.2022.3213595'
