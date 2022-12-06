@@ -4,11 +4,15 @@ authors:
   - Weiwen Wu
   - Dianlin Hu
   - Chuang Niu
-  - Hengyong Yu*
-  - Varut Vardhanabhuti* 
-  - Ge Wang*
-#author_notes:
-#  - 'communication'
+  - Hengyong Yu
+  - Varut Vardhanabhuti
+  - Ge Wang
+author_notes:
+  - 
+  - 
+  - 'communication'
+  - 'communication'
+  - 'communication'
 #  - 'Equal contribution'
 date: '2021-05-06T00:00:00Z'
 doi: '10.1109/TMI.2021.3078067'
