@@ -6,8 +6,12 @@ authors:
   - Hengyong Yu
   - Weifei Wu* 
   - Varut Vardhanabhuti*
-#author_notes:
-#  - 'communication'
+author_notes:
+  - 
+  - 
+  - 
+  - 'communication'
+  - 'communication'
 #  - 'Equal contribution'
 date: '2021-01-19T00:00:00Z'
 doi: '10.1109/TIM.2021.3050190'
