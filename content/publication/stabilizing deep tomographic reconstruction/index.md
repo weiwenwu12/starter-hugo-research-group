@@ -11,8 +11,17 @@ authors:
   - Hengyong Yu*
   - Varut Vardhanabhuti*
   - Ge Wang*
-#author_notes:
-#  - 'communication'
+author_notes:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 'communication'
+  - ****
+  - 'communication'
 #  - 'Equal contribution'
 date: '2022-05-13T00:00:00Z'
 doi: '10.1016/j.patter.2022.100475'
