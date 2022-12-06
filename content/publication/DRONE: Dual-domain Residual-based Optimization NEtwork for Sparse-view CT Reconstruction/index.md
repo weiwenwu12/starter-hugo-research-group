@@ -11,7 +11,7 @@ author_notes:
   - 
   - 
   - 
-  - *
+  - '*'
   - 'communication'
   - 'communication'
 #  - 'Equal contribution'
