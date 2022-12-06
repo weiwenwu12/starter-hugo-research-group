@@ -2,7 +2,8 @@
 title: 'Nonlinear Deviation CorrecTion for Ring-Artifact Removal With Cone-Beam Computed Tomography, IEEE Transactions on Instrumentation and Measurement'
 authors:
   - Xiaodong Guo
-  - Weiwen Wu*
+  - Weiwen Wu
+  - 'communication'
   - Xiaojiao Duan
   - Haijun Yu
   - Dingyue Chang
