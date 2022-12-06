@@ -4,10 +4,13 @@ authors:
   - Weiwen Wu
   - Lieza Vanden Broeke
   - Fenglin Liu
-  - Varut Vardhanabhuti* 
+  - Varut Vardhanabhuti
   - Ge Wang
-#author_notes:
-#  - 'communication'
+author_notes:
+  - 
+  - 
+  - 
+  - 'communication'
 #  - 'Equal contribution'
 date: '2021-12-01T00:00:00Z'
 doi: '10.1016/j.neunet.2021.08.026'
