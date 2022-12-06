@@ -14,7 +14,7 @@ authors:
 author_notes:
   -
   - 'communication'
-  - 'Equal contribution'
+#  - 'Equal contribution'
 date: '2022-07-25T00:00:00Z'
 doi: '10.1109/TIM.2022.3193713'
 
