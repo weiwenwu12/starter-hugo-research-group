@@ -7,7 +7,7 @@ authors:
   - Shijie Wang
   - Weiwen Wu
   - Hui Tang
-  - Yang Chen*
+  - Yang Chen
   - Limin Luo
   - Jian Zhu
   - Baosheng Li
