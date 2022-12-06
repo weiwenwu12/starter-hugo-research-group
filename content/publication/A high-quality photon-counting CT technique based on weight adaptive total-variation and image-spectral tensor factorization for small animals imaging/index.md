@@ -5,9 +5,13 @@ authors:
   - Dianlin Hu
   - Kang An
   - Shaoyu Wang 
-  - Fulin Luo*
-#author_notes:
-#  - 'communication'
+  - Fulin Luo
+author_notes:
+  -
+  - 
+  -  
+  -   
+  - 'communication'
 #  - 'Equal contribution'
 date: '2020-12-25T00:00:00Z'
 doi: '10.1109/TIM.2020.3026804'
