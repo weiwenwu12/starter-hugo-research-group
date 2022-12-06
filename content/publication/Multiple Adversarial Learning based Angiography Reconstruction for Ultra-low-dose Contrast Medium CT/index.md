@@ -6,7 +6,7 @@ authors:
   - Zhifan Gao
   - Guang Yang
   - Lei Xu
-  - Weiwen Wu
+  - admin
   - Heye Zhang
 author_notes:
   - 
