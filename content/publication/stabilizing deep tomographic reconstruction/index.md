@@ -20,7 +20,7 @@ author_notes:
   - 
   - 
   - 'communication'
-  - ****
+  - 'communication'
   - 'communication'
 #  - 'Equal contribution'
 date: '2022-05-13T00:00:00Z'
