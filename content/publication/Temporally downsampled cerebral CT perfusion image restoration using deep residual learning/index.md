@@ -5,7 +5,7 @@ authors:
   - Dan Tong
   - Lu Zhang
   - Shijie Wang
-  - Weiwen Wu
+  - admin
   - Hui Tang
   - Yang Chen
   - Limin Luo
