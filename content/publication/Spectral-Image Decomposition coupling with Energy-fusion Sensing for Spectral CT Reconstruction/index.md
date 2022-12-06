@@ -5,8 +5,8 @@ authors:
   - Haijun Yu
   - Yarui Xi
   - Changcheng Gong
-  - admin*
-  - Fenglin Liu*
+  - admin
+  - Fenglin Liu
 author_notes:
   - 
   - 
