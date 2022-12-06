@@ -3,11 +3,17 @@ title: 'Spectral CT reconstruction via Spectral-Image Tensor and Bidirectional I
 authors:
   - admin
   - Hengyong Yu
+  - Lieza Vanden Broeke
   - Fenglin Liu
   - Jianjia Zhang
   - Varut Vardhanabhuti
-#author_notes:
-#  - 'Equal contribution'
+author_notes:
+  - 
+  - 
+  - 
+  - 
+  - 'communication'
+  - 'communication'
 #  - 'Equal contribution'
 date: '2022-09-01T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.compbiomed.2022.106080'
