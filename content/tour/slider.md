@@ -16,15 +16,15 @@ design:
 content:
   slides:
     - title: 👋 Welcome to the MICIS-LAB
-      content: Take a look at what we're working on...
+      content: We're working on computed tomography and artificial intelligence
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
         media: coders.jpg
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+    - title: Fun & Learn ☕️
+      content: 'Share your knowledge with the group and explore exciting new topics together everyday!'
       align: left
       background:
         position: center
