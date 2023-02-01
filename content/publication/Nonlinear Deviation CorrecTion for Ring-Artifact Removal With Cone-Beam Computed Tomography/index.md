@@ -1,26 +1,24 @@
 ---
 title: 'Nonlinear Deviation CorrecTion for Ring-Artifact Removal With Cone-Beam Computed Tomography'
 authors:
-  - Xiaodong Guo
   - Weiwen Wu
-  - Xiaojiao Duan
-  - Haijun Yu
-  - Dingyue Chang
-  - Peng He
-  - Jue Wang
-  - Rifeng Zhou
-  - Yu Du
-  - Kang An
+  - Qian Wang
+  - Fenglin Liu
+  - Yining Zhu
+  - Hengyong Yu
 author_notes:
   -
-  - 'Equal contribution'
+  -
+  -
+  -
+  - 'communication'
 #  - 'communication'
 #  - 'Equal contribution'
-date: '2022-07-25T00:00:00Z'
-doi: '10.1109/TIM.2022.3193713'
+date: '2019-12-05T00:00:00Z'
+doi: '10.1088/1361-6560/ab51db'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022.07'
+publishDate: '2019.12'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
