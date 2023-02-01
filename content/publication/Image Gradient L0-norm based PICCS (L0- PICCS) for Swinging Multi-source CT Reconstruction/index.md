@@ -32,7 +32,7 @@ publication_types: ['2']
 #publication: '*Journal of Source Themes, 1*(1)'
 #publication_short: ''
 
-abstract: Dynamic computed tomography (CT) is usually employed to image motion objects, such as beating heart, coronary artery and cerebral perfusion, etc. Recently, to further improve the temporal resolution for aperiodic industrial process imaging, the swinging multi-source CT (SMCT) systems and the corresponding swinging multi-source prior image constrained compressed sensing (SM-PICCS) method were developed. Since the SM-PICCS uses the L1-norm of image gradient, the edge structures in the reconstructed images are blurred and motion artifacts are still present. 
+abstract: 
 
 #tags:
 #  - Source Themes
