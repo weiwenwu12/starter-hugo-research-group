@@ -17,7 +17,7 @@ author_notes:
 #  - 'communication'
 #  - 'Equal contribution'
 date: '2019-02-18T00:00:00Z'
-doi: '10.1364/OE.27.005264'
+doi: '10.136464'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2019.02'
