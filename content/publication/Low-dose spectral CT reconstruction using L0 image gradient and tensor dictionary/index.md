@@ -1,5 +1,5 @@
 ---
-title: 'Low-dose spectral CT reconstruction using L~0~ image gradient and tensor dictionary'
+title: 'Low-dose spectral CT reconstruction using $$L_0$$ image gradient and tensor dictionary'
 authors:
   - Weiwen Wu
   - Yanbo Zhang
