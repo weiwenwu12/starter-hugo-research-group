@@ -6,8 +6,8 @@ authors:
   - Weiwen Wu
   - Peng Feng
   - Yufang Cai
-author_notes:
-  -
+#author_notes:
+#  -
   #- 'Equal contribution'
 #  - 'communication'
 #  - 'Equal contribution'
