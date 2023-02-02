@@ -1,5 +1,5 @@
 ---
-title:'Nonlinear Deviation CorrecTion for Ring-Artifact Removal With Cone-Beam Computed Tomography '
+title: 'N'
 authors:
   - Fenglin Liu
   - Chao Quan
