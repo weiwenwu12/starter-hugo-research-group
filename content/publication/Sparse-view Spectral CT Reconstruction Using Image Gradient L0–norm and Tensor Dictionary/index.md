@@ -1,19 +1,15 @@
 ---
 title: 'Sparse-view Spectral CT Reconstruction Using Image Gradient L0–norm and Tensor Dictionary'
 authors:
-  - Xiaodong Guo
   - Weiwen Wu
-  - Xiaojiao Duan
-  - Haijun Yu
-  - Dingyue Chang
-  - Peng He
-  - Jue Wang
-  - Rifeng Zhou
-  - Yu Du
-  - Kang An
+  - Yanbo Zhang
+  - Qian Wang
+  - Fenglin Liu
+  - Peijun Chen
+  - Hengyong Yu
 author_notes:
   -
-  - 'Equal contribution'
+ # - 'Equal contribution'
 #  - 'communication'
 #  - 'Equal contribution'
 date: '2018-05-20T00:00:00Z'
@@ -32,7 +28,7 @@ publication_types: ['1']
 #publication: '*Journal of Source Themes, 1*(1)'
 #publication_short: ''
 
-abstract: 'Spectral computed tomography (CT) has a great superiority in lesion detection, tissue characterization and material decomposition. To further explore its potential clinical applications, in this work, we propose an improved tensor dictionary learning method for sparse-view low-dose spectral CT reconstruction with a constraint of image gradient ℓ0-norm, which is named as ℓ0TDL. The ℓ0TDL method inherits the advantages of tensor dictionary learning (TDL) by employing the similarity of spectral CT images. On the other hand, by introducing the ℓ0-norm constraint in gradient image domain, the proposed method emphasizes the spatial sparsity to overcome the weakness of TDL on preserving edge information. The results show that the proposed ℓ0TDL method outperforms other competing methods.'
+abstract: 'Spectral computed tomography (CT) has a great superiority in lesion detection, tissue characterization and material decomposition. To further explore its potential clinical applications, in this work, we propose an improved tensor dictionary learning method for sparse-view low-dose spectral CT reconstruction with a constraint of image gradient ℓ<sub>0</sub> -norm, which is named as ℓ<sub>0</sub> TDL. The ℓ<sub>0</sub> TDL method inherits the advantages of tensor dictionary learning (TDL) by employing the similarity of spectral CT images. On the other hand, by introducing the ℓ<sub>0</sub> -norm constraint in gradient image domain, the proposed method emphasizes the spatial sparsity to overcome the weakness of TDL on preserving edge information. The results show that the proposed ℓ<sub>0</sub> TDL method outperforms other competing methods.'
 
 #tags:
 #  - Source Themes
