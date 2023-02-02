@@ -1,5 +1,5 @@
 ---
-title: 'Synchronous scanning mode of industrial computed tomography for multiple objects test'
+title: 'Nonlinear Deviation CorrecTion for Ring-Artifact Removal With Cone-Beam Computed Tomography'
 authors:
   - Fenglin Liu
   - Chao Quan
