@@ -8,10 +8,6 @@ authors:
   - Yufang Cai
 author_notes:
   - 'communication'
-  -
-  -
-  -
-  - 
 #  - 'communication'
 #  - 'Equal contribution'
 date: '2017-04-05T00:00:00Z'
