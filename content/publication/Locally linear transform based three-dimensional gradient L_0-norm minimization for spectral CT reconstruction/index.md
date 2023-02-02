@@ -1,5 +1,5 @@
 ---
-title: 'Locally linear transform based three-dimensional gradient L<sub>0</sub> -norm minimization for spectral CT reconstruction'
+title: 'Locally linear transform based three-dimensional gradient L<sub>0</sub>  -norm minimization for spectral CT reconstruction'
 authors:
   - Qian Wang
   - Weiwen Wu
