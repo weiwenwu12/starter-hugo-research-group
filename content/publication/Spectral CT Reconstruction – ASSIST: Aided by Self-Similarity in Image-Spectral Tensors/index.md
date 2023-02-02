@@ -1,19 +1,19 @@
 ---
 title: 'Spectral CT Reconstruction – ASSIST: Aided by Self-Similarity in Image-Spectral Tensors'
 authors:
-  - Xiaodong Guo
+  - Wenjun Xia
   - Weiwen Wu
-  - Xiaojiao Duan
-  - Haijun Yu
-  - Dingyue Chang
-  - Peng He
-  - Jue Wang
-  - Rifeng Zhou
-  - Yu Du
-  - Kang An
+  - Fenglin Liu
+  - Hengyong Yu
+  - Ge Wang
+  - Yi Zhang
 author_notes:
   -
-  - 'Equal contribution'
+  -
+  -
+  -
+  -
+  - 'communication'
 #  - 'communication'
 #  - 'Equal contribution'
 date: '2019-03-10T00:00:00Z'
