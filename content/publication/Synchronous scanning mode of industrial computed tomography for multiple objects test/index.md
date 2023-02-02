@@ -1,20 +1,26 @@
 ---
-title: 'Nonlinear Deviation CorrecTion for Ring-Artifact Removal With Cone-Beam Computed Tomography'
+title: 'Synchronous scanning mode of industrial computed tomography for multiple objects test'
 authors:
-  - Fenglin Liu
-  - Chao Quan
+  - Xiaodong Guo
   - Weiwen Wu
-  - Peng Feng
-  - Yufang Cai
+  - Xiaojiao Duan
+  - Haijun Yu
+  - Dingyue Chang
+  - Peng He
+  - Jue Wang
+  - Rifeng Zhou
+  - Yu Du
+  - Kang An
 author_notes:
-  - 'communication'
+  -
+  - 'Equal contribution'
 #  - 'communication'
 #  - 'Equal contribution'
-date: '2017-04-05T00:00:00Z'
-doi: '10.3233/XST-16229'
+date: '2022-07-25T00:00:00Z'
+doi: '10.1109/TIM.2022.3193713'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017.04'
+publishDate: '2022.07'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,7 +32,8 @@ publication_types: ['2']
 #publication: '*Journal of Source Themes, 1*(1)'
 #publication_short: ''
 
-abstract: 'When testing small size and high density objects with a broad field-of-view (FOV) industrial CT system, multiple objects are always assembled evenly onto the turntable for detecting to improve test efficiency. However, the maximum X-ray's penetrating path through the materials increases, which means the CT system should collocate with a high energy X-ray source and wide-dynamic range detectors to complete the CT scanning. In this study, we proposed and tested a novel and efficient CT scanning method based on linear-arrangement and synchronous-rotating multi-turntables without enhancing the energy of X-ray source and wide-dynamic range of detectors for the CT system. With this modality, multiple objects are assembled onto multiple synchronous-rotating turntables respectively, and X-rays within the FOV merely penetrate one single object when scanning. The corresponding filtered back projection algorithm for image reconstruction is deduced. The computer simulation and experimental results verified the feasibility of this novel method and the scanning time was reduced to 5-8 minutes when completing the scanning of 3 to 5 group objects.'
+abstract: In practice, cone-beam computed tomography (CT) images are usually tarnished by ring artifacts. To address this problem, in this article, we proposed a ring-artifact removal technique based on the nonlinear deviation correction of pixel response for flat panel detector (FPD), named Nonlinear Deviation CorrecTion (NDCT). Our proposed NDCT is a two-point fitting correction method of the local response from mean projection images. Its advantages lie in the following three aspects. First, it obtains correction coefficients by solving the correction equations based on the mean projection images without additional scanning, which improves efficiency. Second, it corrects all pixels of FPD at the same time, which eliminates the inconsistency of adjacent pixels and then the ring artifact within the 3-D CT image can be corrected. Third, the calculation is very simple so the correction speed is fast, which further improves efficiency in practice. Both numerical and real experiments showed that our NDCT method achieved excellent performance and fast speed in ring-artifact removal.
+
 
 #tags:
 #  - Source Themes
