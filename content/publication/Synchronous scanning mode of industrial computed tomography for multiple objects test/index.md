@@ -1,26 +1,21 @@
 ---
 title: 'Synchronous scanning mode of industrial computed tomography for multiple objects test'
 authors:
-  - Xiaodong Guo
+  - Fenglin Liu
+  - Chao Quan
   - Weiwen Wu
-  - Xiaojiao Duan
-  - Haijun Yu
-  - Dingyue Chang
-  - Peng He
-  - Jue Wang
-  - Rifeng Zhou
-  - Yu Du
-  - Kang An
+  - Peng Feng
+  - Yufang Cai
 author_notes:
-  -
-  - 'Equal contribution'
+  - 'communication'
+#  - 'Equal contribution'
 #  - 'communication'
 #  - 'Equal contribution'
-date: '2022-07-25T00:00:00Z'
+date: '2017-04-05T00:00:00Z'
 doi: '10.1109/TIM.2022.3193713'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022.07'
+publishDate: '2017.04'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
