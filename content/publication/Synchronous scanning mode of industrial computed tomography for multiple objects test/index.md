@@ -1,5 +1,5 @@
 ---
-title: 'Synchronous Scanning mode of industrial computed tomography for multiple objects test'
+title: 'Synchronous scanning mode of industrial computed tomography for multiple objects test'
 authors:
   - Fenglin Liu
   - Chao Quan
@@ -7,7 +7,7 @@ authors:
   - Peng Feng
   - Yufang Cai
 author_notes:
-  - 'communication'
+  #- 'communication'
 #  - 'communication'
 #  - 'Equal contribution'
 date: '2017-04-05T00:00:00Z'
