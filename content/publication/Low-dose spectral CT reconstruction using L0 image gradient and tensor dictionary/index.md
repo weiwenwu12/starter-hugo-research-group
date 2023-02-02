@@ -1,5 +1,5 @@
 ---
-title: 'Low-dose spectral CT reconstruction using L0 image gradient and tensor dictionary'
+title: 'Low-dose spectral CT reconstruction using L<sub>0</sub> image gradient and tensor dictionary'
 authors:
   - Weiwen Wu
   - Yanbo Zhang
@@ -30,7 +30,7 @@ publication_types: ['2']
 #publication: '*Journal of Source Themes, 1*(1)'
 #publication_short: ''
 
-abstract:Spectral computed tomography (CT) has a great superiority in lesion detection, tissue characterization and material decomposition. To further extend its potential clinical applications, in this work, we propose an improved tensor dictionary learning method for low-dose spectral CT reconstruction with a constraint of image gradient ℓ<sub>0</sub> -norm, which is named as ℓ<sub>0</sub> TDL. The ℓ<sub>0</sub> TDL method inherits the advantages of tensor dictionary learning (TDL) by employing the similarity of spectral CT images. On the other hand, by introducing the ℓ<sub>0</sub> -norm constraint in gradient image domain, the proposed method emphasizes the spatial sparsity to overcome the weakness of TDL on preserving edge information. The split-bregman method is employed to solve the proposed method. Both numerical simulations and real mouse studies are perform to evaluate the proposed method. The results show that the proposed ℓ<sub>0</sub> TDL method outperforms other competing methods, such as total variation (TV) minimization, TV with low rank (TV+LR), and TDL methods.
+abstract:'Spectral computed tomography (CT) has a great superiority in lesion detection, tissue characterization and material decomposition. To further extend its potential clinical applications, in this work, we propose an improved tensor dictionary learning method for low-dose spectral CT reconstruction with a constraint of image gradient ℓ<sub>0</sub> -norm, which is named as ℓ<sub>0</sub> TDL. The ℓ<sub>0</sub> TDL method inherits the advantages of tensor dictionary learning (TDL) by employing the similarity of spectral CT images. On the other hand, by introducing the ℓ<sub>0</sub> -norm constraint in gradient image domain, the proposed method emphasizes the spatial sparsity to overcome the weakness of TDL on preserving edge information. The split-bregman method is employed to solve the proposed method. Both numerical simulations and real mouse studies are perform to evaluate the proposed method. The results show that the proposed ℓ<sub>0</sub> TDL method outperforms other competing methods, such as total variation (TV) minimization, TV with low rank (TV+LR), and TDL methods.'
 
 #tags:
 #  - Source Themes
