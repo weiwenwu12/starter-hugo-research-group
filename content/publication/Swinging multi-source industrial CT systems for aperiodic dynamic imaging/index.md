@@ -12,7 +12,7 @@ author_notes:
   - 'communication'
 #  - 'communication'
 #  - 'Equal contribution'
-date: '2017-10-025T00:00:00Z'
+date: '2017-10-25T00:00:00Z'
 doi: '10.1364/OE.25.024215'
 
 # Schedule page publish date (NOT publication's date).
