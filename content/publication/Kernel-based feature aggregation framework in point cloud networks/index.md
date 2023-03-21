@@ -23,7 +23,7 @@ date: '2023-07-01T00:00:00Z'
 doi: '10.1016/j.patcog.2023.109439'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023.07'
+publishDate: '2023.02'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
